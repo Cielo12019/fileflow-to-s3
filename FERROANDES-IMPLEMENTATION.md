@@ -2,7 +2,7 @@
 
 ## Información del Proyecto
 
-**Cliente:** FERROANDES Perú  
+**Cliente:** FERROANDESDEX 
 **Solución:** Sistema de Sincronización Documental SharePoint - AWS S3  
 **Versión:** 1.0.0  
 **Fecha de creación:** 2024  
@@ -12,7 +12,7 @@
 
 ## Descripción General
 
-Este sistema ha sido desarrollado específicamente para FERROANDES Perú con el objetivo de automatizar la sincronización segura y confiable de documentos desde el repositorio compartido en SharePoint hacia AWS S3.
+Este sistema ha sido desarrollado específicamente para FERROANDESDEX con el objetivo de automatizar la sincronización segura y confiable de documentos desde el repositorio compartido en SharePoint hacia AWS S3. 
 
 ### Caso de Uso
 
@@ -161,14 +161,4 @@ docker run --env-file .env ferroandes-sync
 - [ ] Compresión de archivos antes de subida
 - [ ] Multi-threading para sincronización paralela
 
----
 
-## Contacto de Soporte
-
-**Responsable del Proyecto:** TI FERROANDES  
-**Correo de Soporte:** ti-infraestructura@ferroandesperu.com  
-**Equipo de Desarrollo:** Disponible bajo solicitud  
-
----
-
-*Documento confidencial de FERROANDES Perú - Solo para uso autorizado*
