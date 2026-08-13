@@ -1,0 +1,20 @@
+{
+    "share_point": {
+        "user": "",
+        "password": "",
+        "url": "https://ferroandesperu.sharepoint.com",
+        "site": "https://ferroandesperu.sharepoint.com/sites/RepositorioDocumental",
+        "doc_library": "Documentos Compartidos/" 
+    },
+    "aws_bucket": {
+        "aws_access_key_id": "",
+        "aws_secret_access_key": "",
+        "bucket_name": "ferroandes-documentos-s3",
+        "bucket_subfolder": "repositorio-sincronizado"
+    },
+    "ferroandes_config": {
+        "empresa": "FERROANDES Perú",
+        "descripcion": "Sistema de sincronización automática del repositorio documental FERROANDES hacia AWS S3",
+        "version": "1.0.0"
+    }
+}

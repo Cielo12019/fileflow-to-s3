@@ -1,0 +1,119 @@
+# LICENCIA DE USO - FERROANDES PERÚ
+
+## Solución: Sistema de Sincronización Documental SharePoint - AWS S3
+
+**Versión:** 1.0.0  
+**Fecha:** 2024  
+**Licenciado para:** FERROANDES Perú  
+
+---
+
+## TÉRMINOS Y CONDICIONES
+
+### 1. Licencia de Uso
+
+Se otorga una licencia no exclusiva, no transferible y revocable a FERROANDES Perú para usar este software exclusivamente para propósitos internos de operaciones logísticas ferroviarias.
+
+### 2. Restricciones
+
+**Se PROHÍBE:**
+- Vender, sublicenciar o alquilar el software
+- Modificar el código fuente sin autorización escrita
+- Distribuir copias a terceros sin consentimiento
+- Usar con fines comerciales fuera de FERROANDES
+- Descompilar, desmontar o hacer ingeniería inversa
+- Remover avisos de derechos de autor
+
+### 3. Propiedad Intelectual
+
+- Todos los derechos de autor permanecen con el desarrollador
+- Trabajo derivado requiere autorización explícita
+- Mejoras sugeridas pueden ser incorporadas con reconocimiento
+
+### 4. Garantía Limitada
+
+El software se proporciona "TAL CUAL" sin garantías de ningún tipo:
+- Sin garantía de comerciabilidad
+- Sin garantía de idoneidad para un propósito particular
+- El usuario es responsable de validación y testing
+
+### 5. Limitación de Responsabilidad
+
+El desarrollador no será responsable por:
+- Pérdida de datos o documentos
+- Interrupciones en el servicio
+- Daños indirectos o consecuentes
+- Costos de recuperación o mantenimiento
+
+### 6. Seguridad y Confidencialidad
+
+- El usuario es responsable de proteger credenciales
+- No se almacenan datos en sistemas del desarrollador
+- Cumplimiento con regulaciones locales es responsabilidad del usuario
+- Auditoría de accesos es responsabilidad del usuario
+
+### 7. Soporte y Mantenimiento
+
+- Soporte técnico disponible bajo contrato de mantenimiento separado
+- Actualizaciones de seguridad serán comunicadas oportunamente
+- Actualizaciones de funcionalidad no garantizadas
+
+### 8. Terminación
+
+Esta licencia se termina:
+- Por incumplimiento de términos (sin reembolso)
+- Cuando se retira de uso el sistema
+- A solicitud del usuario
+
+### 9. Cumplimiento Legal
+
+- El usuario garantiza poseer autoridad para aceptar estos términos
+- El software se proporciona de acuerdo con leyes aplicables en Perú
+- El usuario es responsable de cumplimiento con leyes locales
+
+### 10. Modificaciones de Términos
+
+Estos términos pueden ser modificados con 30 días de aviso escrito a:
+**ti-infraestructura@ferroandesperu.com**
+
+---
+
+## INFORMACIÓN IMPORTANTE
+
+### Políticas de Retención de Datos
+- Los documentos sincronizados permanecen únicamente en infraestructura de FERROANDES
+- AWS S3 se configura con políticas de ciclo de vida según retención requerida
+- Eliminación de datos requiere procedimiento formalizado
+
+### Backup y Recuperación
+- FERROANDES es responsable de políticas de backup de S3
+- Se recomienda versionado de objetos en S3
+- Plan de recuperación ante desastres debe estar documentado
+
+### Auditoría y Cumplimiento
+- Todos los accesos se registran con timestamp
+- Logs deben retenerse según políticas corporativas
+- Acceso debe restringirse a personal autorizado
+
+---
+
+## ACEPTACIÓN
+
+Al usar este software, el usuario ACEPTA todos los términos y condiciones establecidos en esta licencia.
+
+**Fecha de Aceptación:** _______________
+
+**Nombre y Cargo:** _____________________
+
+**Firma:** ___________________________
+
+---
+
+*Para preguntas sobre esta licencia, contactar a:*  
+**Email:** ti-infraestructura@ferroandesperu.com  
+**Empresa:** FERROANDES Perú - Operadora de Ferrocarriles  
+**Ubicación:** Perú
+
+---
+
+**© 2024 - FERROANDES Perú. Todos los derechos reservados.**
