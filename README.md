@@ -1,6 +1,6 @@
-# Sistema de Sincronización Documental FERROANDES
+# Sistema de Sincronización Documental
 
-**Solución personalizada para FERROANDES Perú**
+**Solución personalizada**
 
 Herramienta automatizada para sincronizar archivos desde el repositorio SharePoint de FERROANDES hacia AWS S3, garantizando la preservación, seguridad y accesibilidad centralizada de documentos críticos en las operaciones logísticas ferroviarias.
 
@@ -114,7 +114,6 @@ Todos los errores se registran con mensajes descriptivos para facilitar el diagn
 
 ## Seguridad
 
-⚠️ **Recomendaciones importantes:**
 - Nunca incluir credenciales en el código fuente
 - Usar variables de entorno o bóveda de secretos para credenciales en producción
 - Restringir permisos de acceso a `config.json`
