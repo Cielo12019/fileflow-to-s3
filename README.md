@@ -125,4 +125,4 @@ Todos los errores se registran con mensajes descriptivos para facilitar el diagn
 Para soporte técnico o reportar issues, contactar al equipo de tecnología de FERROANDES.
 
 ---
-*Solución desarrollada específicamente para FERROANDES Perú | Versión 1.0.0*
+*Solución desarrollada| Versión 1.0.0*
